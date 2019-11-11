@@ -1,11 +1,16 @@
 _repo: Work-of-the-Colored-Law-and-Order-League-Baltimore-Md_60670
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60670-h/images/cover.jpg
 creator:
   author:
     agent_name: Waring, James H. N.
     gutenberg_agent_id: '51080'
     url: http://www.gutenberg.org/2009/agents/51080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60670#Work-of-the-Colored-Law-and-Order-League-Baltimore-Md
 gutenberg_issued: '2019-11-11'
 gutenberg_type: Text
 identifiers:
